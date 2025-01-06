@@ -1,0 +1,3 @@
+/home/diego/Desktop/project_git/git_test/cplusplus_test/cmake-build-debug/CMakeFiles/cplusplus_test.dir
+/home/diego/Desktop/project_git/git_test/cplusplus_test/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/diego/Desktop/project_git/git_test/cplusplus_test/cmake-build-debug/CMakeFiles/rebuild_cache.dir
